@@ -1,2 +1,3 @@
 # systemjs-plugin-dojo
-Dojo loader for SystemJS
+
+Dojo loader plugin for SystemJS

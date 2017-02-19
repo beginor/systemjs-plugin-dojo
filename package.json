@@ -1,0 +1,25 @@
+{
+  "name": "systemjs-plugin-dojo",
+  "version": "1.0.0",
+  "description": "dojo loader plugin for SystemJS",
+  "main": "dojo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beginor/systemjs-plugin-dojo.git"
+  },
+  "keywords": [
+    "systemjs",
+    "loader",
+    "dojo",
+    "plugin"
+  ],
+  "author": "beginor <beginor@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beginor/systemjs-plugin-dojo/issues"
+  },
+  "homepage": "https://github.com/beginor/systemjs-plugin-dojo#readme"
+}
