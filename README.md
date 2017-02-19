@@ -59,6 +59,10 @@ SystemJS.config({
 });
 ```
 
+### Demo
+
+See [ng2-esri-demo](https://github.com/beginor/ng2-esri-demo) for more details.
+
 ## License
 
 [MIT](LICENSE)
