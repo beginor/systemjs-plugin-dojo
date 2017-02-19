@@ -67,7 +67,7 @@ See [ng2-esri-demo](https://github.com/beginor/ng2-esri-demo) for more details.
 
 [MIT](LICENSE)
 
-## Thanks to
+## Special thanks to
 
-[roemhildtg](https://gist.github.com/roemhildtg/4dce79f9bffe74b99a6a6cea3f44604f)
-[tomwayson](https://github.com/tomwayson)
+- [roemhildtg](https://gist.github.com/roemhildtg/4dce79f9bffe74b99a6a6cea3f44604f)
+- [tomwayson](https://github.com/tomwayson)
